@@ -29,8 +29,8 @@ Bevor das Projekt ausgeführt werden kann, sollten die folgenden Voraussetzungen
 ### 1. Repository klonen
 Klonen Sie das Repository auf Ihren lokalen Rechner:
 ```sh
- git clone https://github.com/Kalaishe/shopping-assistant.git
- cd shopping-assistant
+ git clone https://github.com/Kalaishe/Human.git
+ cd Human
 ```
 
 ### 2. Virtuelle Umgebung erstellen und aktivieren
