@@ -10,7 +10,7 @@ Die Bilder und Videos wurden mit Kling AI https://klingai.com/ generiert und ans
 
 
 
-# Rasa Chatbot mit Datenanalyse
+# Rasa Chatbot lokal mit Datenanalyse
 
 ## 🤖 Projektübersicht
 Dieses Projekt beinhaltet einen Chatbot, der mit [Rasa](https://rasa.com/) entwickelt wurde, sowie ein Python-Skript zur Analyse der Chat-Daten. Ziel der Analyse ist es, zu untersuchen, wie verschiedene Chatbot-Designs die Interaktion der Nutzer beeinflussen.
