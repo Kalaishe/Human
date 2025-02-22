@@ -22,8 +22,8 @@ Bevor das Projekt ausgeführt werden kann, sollten die folgenden Voraussetzungen
 - **Virtuelle Umgebung** (optional, aber empfohlen)
 - Folgende Python-Bibliotheken:
   - Rasa
-  - Pandas
-  - Matplotlib
+  - Pandas (optional)
+  - Matplotlib (optional)
 
 ## 🛠️ Installation
 ### 1. Repository klonen
